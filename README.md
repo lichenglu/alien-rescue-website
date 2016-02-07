@@ -1,6 +1,6 @@
 # Alien Rescue Website
 
-Alien Rescue Website is the official site for the project [Alien Rescue](http://alienrescue.edb.utexas.edu/) created by [Learning Technologies program in the University of Texas at Austin](http://www.edb.utexas.edu/education/departments/ci/programs/lt/).
+Alien Rescue Website is the official site for the project [Alien Rescue](http://alienrescue.edb.utexas.edu/) created by [Learning Technologies program](http://www.edb.utexas.edu/education/departments/ci/programs/lt/) in the University of Texas at Austin.
 
 ## Getting Started
 
