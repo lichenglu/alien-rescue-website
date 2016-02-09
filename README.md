@@ -14,4 +14,4 @@ To use this theme:
 Copyright belongs to the Alien Rescue Team. Designed and developed by Sukanya and [Chenglu](https://lichenglu.github.io), master's students in the Learning Technologies Program.
 ## Copyright and License
 
-Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-creative/blob/gh-pages/LICENSE) license.# alien-rescue-website
+Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-creative/blob/gh-pages/LICENSE) license.
