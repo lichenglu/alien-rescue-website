@@ -5,7 +5,7 @@ Alien Rescue Website is the official site for the project [Alien Rescue](http://
 ## Getting Started
 
 To use this theme:
-* Fork this repository on GitHub
+* Fork this repository on GitHub: git clone https://github.com/lichenglu/alien-rescue-website.git
 
 ## Bugs and Issues
 
