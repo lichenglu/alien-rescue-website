@@ -319,8 +319,8 @@ header {
     width: 100%;
     min-height: auto;
     text-align: center;
-    color: #382e2c;
-    background-image: url(../img/header.jpg);
+    color: white;
+    background-image: url(../img/TrialIMG.jpg);
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
