@@ -52,7 +52,7 @@ p {
 }
 
 .bg-primary {
-    background-color: #058789;
+    background-color: #035557;
     padding: 30px 0 50px 0;
 }
 
@@ -80,7 +80,7 @@ aside {
 .navbar-default {
     border-color: rgba(34,34,34,.05);
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
-    background-color: #fff;
+    background-color: #F0ECC9;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -276,7 +276,7 @@ footer .footer-below {
 
     .navbar-default .navbar-header .navbar-brand:hover,
     .navbar-default .navbar-header .navbar-brand:focus {
-        color: #fff;
+        color: #F0ECC9;
     }
 
     .navbar-default .nav > li>a,
@@ -286,12 +286,12 @@ footer .footer-below {
 
     .navbar-default .nav > li>a:hover,
     .navbar-default .nav>li>a:focus:hover {
-        color: #fff;
+        color: #F0ECC9;
     }
 
     .navbar-default.affix {
         border-color: rgba(34,34,34,.05);
-        background-color: #fff;
+        background-color: #F0ECC9;
     }
 
     .navbar-default.affix .navbar-header .navbar-brand {
@@ -590,9 +590,9 @@ fieldset[disabled] .btn-default.active {
 }
 
 .btn-primary {
-    border-color: #058789;
+    border-color: #035557;
     color: #fff;
-    background-color: #058789;
+    background-color: #035557;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -604,9 +604,9 @@ fieldset[disabled] .btn-default.active {
 .btn-primary:active,
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
-    border-color: #06acaf;
+    border-color: #058789;
     color: #fff;
-    background-color: #06acaf;
+    background-color: #058789;
 }
 
 .btn-primary:active,
@@ -633,12 +633,12 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-    border-color: #058789;
-    background-color: #058789;
+    border-color: #035557;
+    background-color: #035557;
 }
 
 .btn-primary .badge {
-    color: #058789;
+    color: #035557;
     background-color: #fff;
 }
 
